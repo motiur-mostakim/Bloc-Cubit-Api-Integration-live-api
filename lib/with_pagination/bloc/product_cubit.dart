@@ -1,4 +1,4 @@
-import 'package:bloc_cubit_api_integrate/bloc/result_state.dart';
+import 'package:bloc_cubit_api_integrate/with_pagination/bloc/result_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../features/model/products.dart';
 import '../features/provider/repository.dart';
